@@ -6,7 +6,7 @@ description: Documenting my learning journey
 # 1. INTRODUCTION
 I created this folder to document my python(for ML) 1-year learning journey.
 ## What to Learn
->> :warning: To avoid vialating the copyright of the reference book(mastering-machine-learning-with-python-in-six-steps),the course content are as per the author of the reference book.
+>> :warning: To avoid violating the copyright of the reference book(mastering-machine-learning-with-python-in-six-steps),the course content are as per the author of the reference book.
 #### Chapter 1, Step 1 - Getting started in Python. 
     This chapter will help you to set up the
     environment, and introduce you to the key concepts of Python programming language
