@@ -4,7 +4,16 @@ tags: Python
 description: Documenting my learning journey
 ---
 # 1. INTRODUCTION
-I created this folder to document my python(for ML) 1-year learning journey.
+I created this repository to document my python(for ML) 1-year learning journey.
+Most of the codes and practices are inspired by `Manohar Swamynathan` 
+##### About `Manohar Swamynathan`
+ He is a data science practitioner and an avid programmer, with over 13 years of experience in various data science-related areas that include data warehousing, Business Intelligence (BI), analytical tool
+development, ad hoc analysis, predictive modeling, data science product development, consulting, formulating strategy, and executing analytics program. He’s had a career covering life cycles of data across different domains such as U.S. mortgage banking, retail, insurance, and industrial IoT. He has a bachelor’s degree with specialization in physics, mathematics, and computers; and a master’s degree in project management. He’s currently living in Bengaluru, the Silicon Valley of India, working as Staff Data Scientist with General Electric Digital, contributing to the next big digital industrial revolution.
+You can visit him at to learn more about his various
+other activities.
+> link : http://www.mswamynathan.com 
+or
+>https://www.linkedin.com/in/manoharswamynathan/
 ## What to Learn
 >> :warning: To avoid violating the copyright of the reference book(mastering-machine-learning-with-python-in-six-steps),the course content are as per the author of the reference book.
 #### Chapter 1, Step 1 - Getting started in Python. 
