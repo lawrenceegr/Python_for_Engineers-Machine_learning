@@ -1,23 +1,13 @@
-# Defining function using *def* keyword
-```python:
-    def function_name (paramater):
-        #statements
-        #use the parameter for example
-        print( 'Hello' + parameter)
-    #call the function and pass value to the parameter
-    function_name('value')
-```
-Lets take an example 
-```python:
-    def greet(name):
-        print('Hello ' + name)
-    greet(' Marcus')
-```
-The result will look like this:
-```bash:
-    'Hello Marcus'
+---
+title: Python for Engineers
+tags: Python
+description: Documenting my learning journey
+---
+### 1. INTRODUCTION
+I created this folder to document my python(for ML) 1-year learning journey.
+# 1.2 Reference materials
+> Doc : https://www.pdfdrive.com/mastering-machine-learning-with-python-in-six-steps-e46527933.html
 
-```
 
 
 
