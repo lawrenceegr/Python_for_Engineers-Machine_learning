@@ -3,6 +3,13 @@ title: Python for Engineers
 tags: Python
 description: Documenting my learning journey
 ---
+# *KEY TOOLS, LANGUAGES AND KNOWLEDGE TO APPLY
+- MERN stack
+- Embedded systems programming
+- Raspberry Pi
+- SciKit-Learn
+- Matplotlib
+- Numpy
 # 1. INTRODUCTION
 This repository was created to document my Python(for ML) 1-year learning journey. Most of the codes and practices are inspired by `Manohar Swamynathan` 
 ##### About `Manohar Swamynathan`
